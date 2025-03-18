@@ -1,3 +1,5 @@
 # GIT FOR DEVOPS
 
-this is simple git command.
+This is a simple guide to Git commands.
+
+Copy and paste the commands to practice them effectively.
